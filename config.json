@@ -3,8 +3,8 @@
     "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0", 
     "token": "6752990496:AAGNFnQ0hfHkELnje_DxQmQjR1GHawwZPxw", 
     "chatbot": {
-        "0": { // your telegram user id
-            "token": "", // poe token
+        "0": { 
+            "token": "u_7BOcLoqGmnRHvHdoGN9A%3D%3D", 
             "bot": "JEE-INFO-2024" 
         }
   }
